@@ -9,3 +9,6 @@ Proyecto de curso de asincronismo con JavaScript
 
 ## Deploy con Github Pages
     https://www.npmjs.com/package/gh-pages
+
+
+## npm run deploy :rocket:
